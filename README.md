@@ -1,6 +1,6 @@
 # 🛡️ Netc Anti-Cheat Bypass
 
-This project provides a set of advanced runtime hooks for the `netc.dll` networking module, specifically tailored for **MTA: San Andreas**, aiming to bypass or neutralize anti-cheat mechanisms and block unwanted packet traffic.
+This project provides a set of advanced runtime hooks for the `netc.dll` networking module, specifically tailored for **MTA: San Andreas**, aiming to bypass/neutralize anti-cheat mechanisms and block unwanted packet traffic.
 
 ---
 
